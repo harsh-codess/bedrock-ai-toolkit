@@ -1,4 +1,6 @@
 # AWS Bedrock Integration Project
+ 
+**Made by Harsh Gidwani**
 
 > ⚠️ **IMPORTANT**: This cloud application requires paid AWS services. AWS Bedrock charges for model inference requests and may incur significant costs depending on usage. Please review AWS Bedrock pricing before proceeding.
 
@@ -120,3 +122,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Note**: Ensure you have proper AWS Bedrock access and understand the pricing model before running examples.
+
+---
